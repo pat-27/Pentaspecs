@@ -1,0 +1,2 @@
+# Pentaspecs
+Sello repository
